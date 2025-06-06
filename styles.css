@@ -14,8 +14,9 @@
     position: relative;
     display:cover;
     margin: auto;
-    width: 100%;
-    height: 50%;
+    width: 100vw;
+    height: 500px;
+    object-fit: cover;
 }
 #websiteTitle{
     color: #ededed;
@@ -279,6 +280,7 @@ body{
     text-align: center;
 
 }
+
 
 @media screen and (max-width: 600px) {
     #websiteTitle {
