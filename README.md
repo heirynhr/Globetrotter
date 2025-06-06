@@ -10,50 +10,50 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 #### CORE FEATURES
 
-- [ ] **Home Page**
-  - [ ] A heading that mentions the destination.
-  - [ ] An introductory paragraph that welcomes visitors and dsescribes the purpose of the website. 
-  - [ ] An evocative image that represents the location.
-  - [ ] Content organized using Flexbox for a fluid layout.
+- [ x] **Home Page**
+  - [ X ] A heading that mentions the destination.
+  - [ X] An introductory paragraph that welcomes visitors and dsescribes the purpose of the website. 
+  - [Xx ] An evocative image that represents the location.
+  - [ x] Content organized using Flexbox for a fluid layout.
 
-- [ ] **Top Attractions Page**
-  - [ ] A separate page featuring a minimum of three attractions, each including a:
-    - [ ] Name
-    - [ ] Photo
-    - [ ] Brief description
-  - [ ] Each attraction is styled the same
+- [x ] **Top Attractions Page**
+  - [ X ] A separate page featuring a minimum of three attractions, each including a:
+    - [ X ] Name
+    - [ x ] Photo
+    - [ X ] Brief description
+  - [ X ] Each attraction is styled the same
     - E.g. same font, image size, title size, etc. 
-  - [ ] Content arranged with Flexbox for consistency and responsiveness.
+  - [x ] Content arranged with Flexbox for consistency and responsiveness.
 
-- [ ] **Guide Page (Choose One)**
-  - [ ] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
-  - [ ] At least three entries thematic to your choice that provide a:
-    - [ ] Title
-    - [ ] Address
-    - [ ] Description
-    - [ ] Link with more information (e.g. link to a restaurant page)
+- [ x] **Guide Page (Choose One)**
+  - [ X ] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
+  - [X ] At least three entries thematic to your choice that provide a:
+    - [ X ] Title
+    - [ X] Address
+    - [ X] Description
+    - [ X ] Link with more information (e.g. link to a restaurant page)
   - [ ] Each entry should be:
     - [ ] Catered to a specific type of traveler (families, backpackers, etc.)
-    - [ ] Styled the same
+    - [ x] Styled the same
       - E.g. same font, title size, etc.
-  - [ ] Content arranged with Flexbox for consistency and responsiveness. 
+  - [ x] Content arranged with Flexbox for consistency and responsiveness. 
 
-- [ ] **Photo Gallery**
-  - [ ] Separate page with at least five images related to the site's topic.
-  - [ ] Each image should include a caption describing the image.
-  - [ ] Presented in a responsive design using Flexbox.
+- [x ] **Photo Gallery**
+  - [x ] Separate page with at least five images related to the site's topic.
+  - [ x] Each image should include a caption describing the image.
+  - [x ] Presented in a responsive design using Flexbox.
 
-- [ ] **Navigation Bar**
-  - [ ] Navigation bar with working links to each of the following pages:
-    - [ ] Home Page
-    - [ ] Top Attractions
-    - [ ] Photo Gallery
-    - [ ] Guide Page (Food Guide, Accomodations Guide, _or_ Upcoming Local Events Guide)
-  - [ ] Navigation bar can be accessed from each page of the website.
-  - [ ] Styled with Flexbox that adapts to different screen sizes.  
+- [X] **Navigation Bar**
+  - [ X] Navigation bar with working links to each of the following pages:
+    - [ X] Home Page
+    - [ X] Top Attractions
+    - [ X] Photo Gallery
+    - [x ] Guide Page (Food Guide, Accomodations Guide, _or_ Upcoming Local Events Guide)
+  - [X] Navigation bar can be accessed from each page of the website.
+  - [X ] Styled with Flexbox that adapts to different screen sizes.  
 
-- [ ] **Smartphone Friendly**
-  - [ ] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
+- [ x] **Smartphone Friendly**
+  - [ x] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
 
 ### Stretch Features
 
@@ -63,8 +63,8 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
     - Video
     - Song
 
-- [ ] **Enhanced Layouts**
-  - [ ] Utilize CSS Grid on one or more pages for a unique layout.
+- [ X] **Enhanced Layouts**
+  - [ X] Utilize CSS Grid on one or more pages for a unique layout.
 
 - [ ] **Interactive Navigation**
   - [ ] Implement a dropdown menu where at least one menu item includes a nested dropdown menu to access additional categories or sub-pages.
@@ -78,7 +78,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
 
 - [ ] **Custom Styling**: Add a personal touch to your site's design.
-  - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
+  - [ X] Integrate at least one custom font using Google Fonts to add personality to your site.
   - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
@@ -95,11 +95,11 @@ Add your response here
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+Had I had more time I would have spent more time on the css design of the website. I definitely would have added a map highlighting all the different habitats within Venezuela to emphasis my points. Not to mention, I would attempted to embed the resources I linked like the video or the songs into my gallery.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+
 
 ### Open-source libraries used
 
@@ -107,4 +107,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shout out to Keith and Jackie for helping me out with my navigation bar issue.
