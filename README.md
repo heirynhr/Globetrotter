@@ -2,9 +2,9 @@
 
 Submitted by: **Heiryn Hernandez Rojas**
 
-Estimated time spent: **8** hours spent in total
+Estimated time spent: **16** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Globetrotter Deployed Site](https://globetrotter-neon.vercel.app/index.html)
 
 ### Application Features
 
@@ -73,9 +73,9 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [ ] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
   - [ ] *Note*: You do not have to collect and save the data submitted using the form. 
 
-- [ ] **Deployment**
-  - [ ] Deploy your website so it's accessible to the public outside of your local machine. 
-  - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
+- [x] **Deployment**
+  - [x] Deploy your website so it's accessible to the public outside of your local machine. 
+  - [x] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
 
 - [ ] **Custom Styling**: Add a personal touch to your site's design.
   - [X] Integrate at least one custom font using Google Fonts to add personality to your site.
@@ -83,9 +83,15 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`ADD_EMBEDDED_CODE_HERE`
+<div>
+    <a href="https://www.loom.com/share/e37622c5c15540c087a8eb7fe7cf9f4b">
+      <p>Project 1 Video - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e37622c5c15540c087a8eb7fe7cf9f4b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e37622c5c15540c087a8eb7fe7cf9f4b-02d6292f52d5eeb0-full-play.gif">
+    </a>
+  </div>
 
 ### Reflection
 
@@ -99,6 +105,7 @@ Had I had more time I would have spent more time on the css design of the websit
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
+I would love to try the animations for the navigation bar, adding colors and highlights when you hover over it/click on it. My website ran well but I would love to implement the suggestions of my peers
 
 
 ### Open-source libraries used
